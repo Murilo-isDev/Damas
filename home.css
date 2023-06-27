@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #252422;
+}
+
+.logo{
+    margin: auto;
+    display: flex;
+    width: 70vh;
+    padding: 11vh;
+}
+
+.icons{
+    width: 30vh;
+    color: whitesmoke;
+    font-size: 60px;
+    text-align: center;
+
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
